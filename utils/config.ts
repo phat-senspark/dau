@@ -1,5 +1,5 @@
 export const networks = {
-  "bsc-mainnet": [
+  "bsc": [
     'https://bsc-dataseed1.binance.org/',
     'https://bsc-dataseed2.binance.org/',
     'https://bsc-dataseed3.binance.org/',
@@ -13,7 +13,7 @@ export const networks = {
     'https://bsc-dataseed3.ninicoin.io/',
     'https://bsc-dataseed4.ninicoin.io/'
   ],
-  "bsc-testnet": [
+  "testnet": [
     'https://data-seed-prebsc-1-s1.binance.org:8545/',
     'https://data-seed-prebsc-2-s1.binance.org:8545/',
     'http://data-seed-prebsc-1-s2.binance.org:8545/',
@@ -22,5 +22,5 @@ export const networks = {
     'https://data-seed-prebsc-2-s3.binance.org:8545/'
   ],
   "polygon": [],
-  "mummbai": []
+  "mumbai": []
 }
